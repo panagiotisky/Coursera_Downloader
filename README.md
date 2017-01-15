@@ -5,7 +5,7 @@ A simple python script for downloading Coursera full courses or selected weeks.
 
 ### Required
 
-You will need in order for the script to run:
+In order for the script to run you will need:
 
 * #### Python3
 
